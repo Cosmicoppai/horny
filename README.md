@@ -1,5 +1,5 @@
 # horny
-Script to search on pornhub in incognito
+Script to search on pornhub in secret mode
 
 ## Add the folder on which script resides to the path
 
